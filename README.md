@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Khajuria</h1>
-<h3 align="center">A Blockchain Developer from Jammu, J&K, India</h3>
+<h3 align="center">A Software Developer from Jammu, J&K, India</h3>
 
 <p align="left"> <a href="https://twitter.com/arnavkhajuria18" target="blank"><img src="https://img.shields.io/twitter/follow/arnavkhajuria18?logo=twitter&style=for-the-badge" alt="arnavkhajuria18" /></a> </p>
 
