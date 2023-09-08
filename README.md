@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Arnav Khajuria</h1>
-<h3 align="center">A software Developer from Jammu, J&K, India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavk1872" alt="arnavk1872" /></a> </p>
+<h3 align="center">A Blockchain Developer from Jammu, J&K, India</h3>
 
 <p align="left"> <a href="https://twitter.com/arnavkhajuria18" target="blank"><img src="https://img.shields.io/twitter/follow/arnavkhajuria18?logo=twitter&style=for-the-badge" alt="arnavkhajuria18" /></a> </p>
 
