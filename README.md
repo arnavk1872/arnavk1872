@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 👨‍💻 All of my projects are available at [https://arnavk1872.github.io/Resume/](https://arnavk1872.github.io/Resume/)
+- 👨‍💻 All of my projects are available [here](https://arnavkhajuria.vercel.app)
 
 - 📫 How to reach me **arnavk1802@gmail.com**
 
